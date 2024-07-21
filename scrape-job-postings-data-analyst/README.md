@@ -6,11 +6,11 @@ Conduct a web scraping data analysis to automatically extract job posting data f
 
 Tasks
 
-- [] – Import required libraries
-- [] – Generating a URL with a function
-- [] – Extract the Job Data from a single job posting card
-- [] – Define the main function
-- [] – Describe Conclusions
+- [ ] – Import required libraries
+- [ ] – Generating a URL with a function
+- [ ] – Extract the Job Data from a single job posting card
+- [ ] – Define the main function
+- [ ] – Describe Conclusions
 
 ## Используемые билиотеки
 
